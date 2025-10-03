@@ -1,4 +1,4 @@
-# ARACOVID19-MFH: AraCOVID19-MFH: Arabic COVID-19 Multi-label Fake news & Hate speech detection dataset
+# ARACOVID19-MFH: Arabic COVID-19 Multi-label Fake news & Hate speech detection dataset
 
 ## Description
 
