@@ -3,19 +3,28 @@
 ## Description
 
 AraCOVID19-MFH is a manually annotated dataset containing 10,828 Arabic tweets annotated with 10 different labels. The lables that are used in the dataset are the following:
+
+<div align="center">
 <img src="labels.JPG" alt="Arabic COVID-19 dataset lebels" width="700">
+</div>
 
 ## Examples
 
 An example of the instances present in the dataset are provided in the below Table: 
-<img src="examples.JPG" alt="Arabic COVID-19 dataset examples" width="700">
+
+<div align="center">
+    <img src="examples.JPG" alt="Arabic COVID-19 dataset examples" width="900">
+</div>
+
 
 
 ## Statistics
 
 The statistics the dataset are provided in the below Table: 
-<img src="stats.JPG" alt="Arabic COVID-19 dataset statistics" width="700">
 
+<div align="center">
+<img src="stats.JPG" alt="Arabic COVID-19 dataset statistics" width="600">
+</div>
 
 
 ## Citations
